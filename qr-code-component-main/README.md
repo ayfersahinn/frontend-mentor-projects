@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-
-
 ## Overview
 
 ### Screenshot
@@ -35,8 +33,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 
 ### What I learned
+Through this project, I practiced structuring a simple webpage using semantic HTML and modern CSS techniques.
 
+I improved my understanding of:
 
+- Flexbox layout for centering content both vertically and horizontally
+- Working with design references from a Figma file
 
 ## Author
 - Frontend Mentor - [@ayfersahinn](https://www.frontendmentor.io/profile/ayfersahinn)
