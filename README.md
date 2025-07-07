@@ -6,7 +6,7 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 
 1. **QR Code Component**
    - Challenge: [Frontend Mentor - QR Code Component](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/682e10aa9b5ac95dc56eea21/challenge/start)
-   - Solution: [View Solution on GitHub](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/qr-code-component-main)
+   - Solution: [View Solution on GitHub](https://ayfersahinn.github.io/frontend-mentor-projects/qr-code-component-main)
 
      
 ## 🛠️ Tech Stack
