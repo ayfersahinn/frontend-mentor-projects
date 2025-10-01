@@ -22,7 +22,7 @@ This is a responsive social profile card built with HTML and CSS. It displays a 
 
 ### Links
 
-- Project link: [social-links-profile-main]()
+- Project link: [social-links-profile-main](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/social-links-profile-main)
 - Visit Site: [Social Links Profile]()
 
 ## My process
