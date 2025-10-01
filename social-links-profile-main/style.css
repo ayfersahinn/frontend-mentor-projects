@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #141414;
+  color: #ffffff;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-box {
+  min-width: 400px;
+  width: 100%;
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  padding: 40px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+@media (max-width: 768px) {
+  .main-box {
+    width: 90% !important;
+    padding: 20px !important;
+    margin: 20px !important;
+  }
+  .info-box h1 {
+    font-size: 24px !important;
+  }
+}
+.card-header {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.img-box img {
+  border-radius: 100%;
+  width: 100px;
+}
+.info-box h1 {
+  font-weight: 600;
+  font-size: 26px;
+}
+.info-box .address {
+  color: #c5f82a;
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 5px;
+  letter-spacing: 0.5px;
+}
+.description-box {
+  color: #c1c1c1;
+}
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.buttons a {
+  color: #ffffff;
+  background-color: #333333;
+  border-radius: 10px;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 15px;
+  width: 100%;
+  transition: background-color 0.3s ease-in-out;
+}
+.buttons a:hover {
+  background-color: #c5f82a;
+  color: #333333;
+  font-weight: 600;
+}
