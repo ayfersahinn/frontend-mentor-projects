@@ -7,7 +7,9 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 1. **QR Code Component**
    - Challenge: [Frontend Mentor - QR Code Component](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/682e10aa9b5ac95dc56eea21/challenge/start)
    - Visit Site: [QR Code Component](https://ayfersahinn.github.io/frontend-mentor-projects/qr-code-component-main)
-
+2. **Social Links Profile**
+   - Challenge: [Frontend Mentor - Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
+   - Visit Site: [Social Links Profile](https://ayfersahinn.github.io/frontend-mentor-projects/social-links-profile-main/)
      
 ## 🛠️ Tech Stack
 
