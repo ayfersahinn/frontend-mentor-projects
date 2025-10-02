@@ -47,8 +47,8 @@ body {
   width: 90px;
 }
 .info-box h1 {
-  font-weight: 500;
-  font-size: 26px;
+  font-weight: 600;
+  font-size: 24px;
 }
 .info-box .address {
   color: #c5f82a;
@@ -57,9 +57,7 @@ body {
   margin-top: 5px;
   letter-spacing: 0.5px;
 }
-.description-box {
-  color: #c1c1c1;
-}
+
 .buttons {
   display: flex;
   flex-direction: column;
