@@ -33,8 +33,16 @@ body {
   flex-direction: column;
   gap: 24px;
 }
+@media screen and (max-width: 375.98px) {
+  .blog-card {
+    width: 327px !important;
+  }
+  .blog-img img {
+    width: 279px;
+  }
+}
 .blog-img img {
-  height: 200px;
+  max-height: 200px;
   border-radius: 10px;
 }
 .content {
@@ -47,18 +55,19 @@ body {
   padding: 4px 12px;
   border-radius: 4px;
   align-self: flex-start;
-  font-size: 14px;
+  font-size: clamp(12px, 2vw, 14px);
   font-weight: 800;
 }
 .publish-date {
-  font-size: 14px;
+  font-size: clamp(12px, 2vw, 14px);
 }
 .title {
-  font-size: 24px;
+  font-size: clamp(20px, 4vw, 24px);
   font-weight: 800;
 }
 .description {
   font-weight: 500;
+  font-size: clamp(14px, 2vw, 16px);
   color: var(--light-gray);
 }
 .author {
