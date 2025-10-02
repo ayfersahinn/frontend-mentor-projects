@@ -34,15 +34,16 @@ body {
   gap: 24px;
 }
 @media screen and (max-width: 375.98px) {
-  .blog-card {
-    width: 327px !important;
+  main .blog-card {
+    width: 327px;
   }
   .blog-img img {
     width: 279px;
   }
 }
 .blog-img img {
-  max-height: 200px;
+  width: 100%;
+  height: auto;
   border-radius: 10px;
 }
 .content {
