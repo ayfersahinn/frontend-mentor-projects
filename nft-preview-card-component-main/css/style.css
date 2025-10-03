@@ -44,7 +44,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   opacity: 0;
-  transition: opacity 0.3s;
+  transition: opacity 0.3s ease-in-out;
   border-radius: 10px;
 }
 .card .card-image:hover::after {
@@ -66,6 +66,11 @@ body {
   color: hsl(0, 0%, 100%);
   font-weight: 600;
   font-size: 24px;
+  transition: color 0.3s ease-in-out;
+}
+.card .content .title:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 .card .content .description {
   font-weight: 300;
@@ -107,6 +112,11 @@ body {
 }
 .card .author p span {
   color: hsl(0, 0%, 100%);
+  transition: color 0.3s ease-in-out;
+}
+.card .author p span:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 
 /*# sourceMappingURL=style.css.map */

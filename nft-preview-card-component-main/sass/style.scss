@@ -48,7 +48,7 @@ body {
       background-position: center;
       background-repeat: no-repeat;
       opacity: 0;
-      transition: opacity 0.3s;
+      transition: opacity 0.3s ease-in-out;
       border-radius: 10px;
     }
     &:hover::after {
@@ -70,6 +70,11 @@ body {
       color: $white;
       font-weight: 600;
       font-size: 24px;
+      transition: color 0.3s ease-in-out;
+      &:hover {
+        color: $cyan;
+        cursor: pointer;
+      }
     }
     .description {
       font-weight: 300;
@@ -110,6 +115,11 @@ body {
       color: $blue;
       span {
         color: $white;
+        transition: color 0.3s ease-in-out;
+        &:hover {
+          color: $cyan;
+          cursor: pointer;
+        }
       }
     }
   }
