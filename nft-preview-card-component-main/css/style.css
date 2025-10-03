@@ -21,13 +21,13 @@ body {
 .card {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 24px;
   background-color: hsl(216, 50%, 16%);
-  border-radius: 10px;
+  border-radius: 15px;
   padding: 24px;
   width: clamp(250px, 80%, 350px);
   margin: 0 auto;
-  box-shadow: 10px 30px 10px 10px rgba(9, 17, 30, 0.5), -10px 30px 10px 10px rgba(9, 17, 30, 0.5);
+  box-shadow: 10px 30px 10px 10px rgba(9, 17, 30, 0.2), -10px 30px 10px 10px rgba(9, 17, 30, 0.2);
 }
 .card .card-image {
   position: relative;
@@ -61,12 +61,12 @@ body {
 .card .content {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 16px;
 }
 .card .content .title {
   color: hsl(0, 0%, 100%);
   font-weight: 600;
-  font-size: 24px;
+  font-size: 20px;
   transition: color 0.3s ease-in-out;
 }
 .card .content .title:hover {
@@ -80,10 +80,11 @@ body {
 .card .icon-box {
   display: flex;
   justify-content: space-between;
-  font-size: 14px;
+  font-size: 16px;
 }
 .card .icon-box .ethereum {
   color: hsl(178, 100%, 50%);
+  font-weight: 600;
   display: flex;
   align-items: center;
   gap: 4px;
@@ -108,7 +109,7 @@ body {
   border-radius: 50%;
 }
 .card .author p {
-  font-size: 14px;
+  font-size: 16px;
   color: hsl(215, 51%, 70%);
 }
 .card .author p span {
