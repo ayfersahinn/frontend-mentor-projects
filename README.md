@@ -10,6 +10,9 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 2. **Social Links Profile**
    - Challenge: [Frontend Mentor - Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
    - Visit Site: [Social Links Profile](https://ayfersahinn.github.io/frontend-mentor-projects/social-links-profile-main/)
+3. **Blog Preview Card**
+   - Challenge: [Frontend Mentor - Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+   - Visit Site: [Blog Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/blog-preview-card/) 
      
 ## 🛠️ Tech Stack
 
