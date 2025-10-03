@@ -18,7 +18,7 @@ This project is a responsive NFT Preview Card Component built using HTML and SCS
 
 ### Screenshot
 
-![](nft-card-component.png)
+![](nft-preview-card-ss.png)
 
 ### Links
 
