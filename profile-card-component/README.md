@@ -36,8 +36,6 @@ This Profile Card Component was built using HTML and SCSS, fully responsive for 
 
 ### What I learned
 
-Through this project, I improved my skills in creating responsive UI components using modern CSS techniques. It helped me practice precise layout control, responsive design principles, and handling decorative background elements effectively. Projects like this strengthen my front-end development skills and attention to design detail.
-
 ## Author
 
 - Frontend Mentor - [@ayfersahinn](https://www.frontendmentor.io/profile/ayfersahinn)
