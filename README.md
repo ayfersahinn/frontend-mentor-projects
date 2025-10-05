@@ -12,7 +12,13 @@ This repository contains my solutions to various Frontend Mentor challenges. The
    - Visit Site: [Social Links Profile](https://ayfersahinn.github.io/frontend-mentor-projects/social-links-profile-main/)
 3. **Blog Preview Card**
    - Challenge: [Frontend Mentor - Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-   - Visit Site: [Blog Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/blog-preview-card/) 
+   - Visit Site: [Blog Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/blog-preview-card/)
+4. **Nft Preview Card Component**
+   - Challenge: [Frontend Mentor - Nft Preview Card Component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+   - Visit Site: [Nft Preview Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/nft-preview-card-component-main/)
+5. **Profile Card Component**
+   - Challenge: [Frontend Mentor - Profile Card Component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+   - Visit Site: [Profile Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/profile-card-component-main/)
      
 ## 🛠️ Tech Stack
 
