@@ -18,13 +18,15 @@ This repository contains my solutions to various Frontend Mentor challenges. The
    - Visit Site: [Nft Preview Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/nft-preview-card-component-main/)
 5. **Profile Card Component**
    - Challenge: [Frontend Mentor - Profile Card Component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
-   - Visit Site: [Profile Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/profile-card-component-main/)
+   - Visit Site: [Profile Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/profile-card-component/)
      
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3 
+- CSS3
+- SCSS
 - Figma
+  
 
 
 ## 🔗 Profile
