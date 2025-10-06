@@ -15,7 +15,7 @@ This repository contains my solutions to various Frontend Mentor challenges. The
    - Visit Site: [Social Links Profile](https://ayfersahinn.github.io/frontend-mentor-projects/social-links-profile-main/)
 4. **Recipe Page**
    - Challenge: [Frontend Mentor - Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
-   - Visit Site: [Recipe Page](https://ayfersahinn.github.io/frontend-mentor-projects/recipe-page/)
+   - Visit Site: [Recipe Page](https://ayfersahinn.github.io/frontend-mentor-projects/recipe-page-main/)
 ## 🛠️ Tech Stack
 
 - HTML5  
