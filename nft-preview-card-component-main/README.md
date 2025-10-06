@@ -22,8 +22,8 @@ This project is a responsive NFT Preview Card Component built using HTML and SCS
 
 ### Links
 
-- Project link: [social-links-profile-main](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/nft-preview-card-component-main)
-- Visit Site: [Social Links Profile](https://ayfersahinn.github.io/frontend-mentor-projects/nft-preview-card-component-main/)
+- Project link: [Nft Preview Card](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/nft-preview-card-component-main)
+- Visit Site: [Nft Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/nft-preview-card-component-main/)
 
 ## My process
 

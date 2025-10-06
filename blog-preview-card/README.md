@@ -22,8 +22,8 @@ I designed the Blog Preview Card from Frontend Mentor. I used the Figma design a
 
 ### Links
 
-- Project link: [social-links-profile-main](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/blog-preview-card)
-- Visit Site: [Social Links Profile](https://ayfersahinn.github.io/frontend-mentor-projects/blog-preview-card/)
+- Project link: [Blog Preview Card](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/blog-preview-card)
+- Visit Site: [Blog Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/blog-preview-card/)
 
 ## My process
 

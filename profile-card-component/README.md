@@ -22,8 +22,8 @@ This Profile Card Component was built using HTML and SCSS, fully responsive for 
 
 ### Links
 
-- Project link: [qr-code-component-main](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/profile-card-component)
-- Visit Site: [QR Code Component](https://ayfersahinn.github.io/frontend-mentor-projects/profile-card-component)
+- Project link: [Profile Card Component](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/profile-card-component)
+- Visit Site: [Profile Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/profile-card-component)
 
 ## My process
 
