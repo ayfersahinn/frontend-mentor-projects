@@ -22,8 +22,8 @@ This recipe page was built using semantic HTML5 and CSS. The layout is fully res
 
 ### Links
 
-- Project link: [Recipe Page](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/recipe-page)
-- Visit Site: [Recipe Page](https://ayfersahinn.github.io/frontend-mentor-projects/recipe-page)
+- Project link: [Recipe Page](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/recipe-page-main)
+- Visit Site: [Recipe Page](https://ayfersahinn.github.io/frontend-mentor-projects/recipe-page-main)
 
 ## My process
 
