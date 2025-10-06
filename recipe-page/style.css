@@ -32,7 +32,7 @@ h2 {
   color: var(--Brown-800);
   font-size: clamp(1.6rem, 5vw, 1.8rem);
 }
-h3 {
+.subtitle {
   color: var(--Rose-800);
   font-weight: 600;
   font-size: clamp(1rem, 5vw, 1.2rem);
