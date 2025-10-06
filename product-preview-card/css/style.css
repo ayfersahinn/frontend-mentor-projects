@@ -1,0 +1,117 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+  font-size: 0.875rem;
+  font-family: "Montserrat", sans-serif;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(30, 38%, 92%);
+}
+
+.product-card {
+  display: flex;
+  flex-wrap: wrap;
+  width: 40vw;
+  margin: 0 auto;
+  border-radius: 1rem;
+  overflow: hidden;
+  align-items: stretch;
+}
+.product-card .img-box {
+  width: 50%;
+}
+.product-card .img-box img {
+  border-radius: 1rem 0 0 1rem;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+@media (max-width: 1440px) and (min-width: 768px) {
+  .product-card {
+    width: 80vw;
+  }
+}
+@media (max-width: 768px) {
+  .product-card {
+    width: 90vw;
+    margin: 2rem 0;
+    flex-direction: column;
+  }
+  .product-card .img-box {
+    width: 100%;
+  }
+  .product-card .img-box img {
+    border-radius: 1rem 1rem 0 0;
+  }
+  .product-card .content {
+    width: 100% !important;
+    border-radius: 0 0 1rem 1rem !important;
+  }
+}
+.product-card .content {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  background-color: hsl(0, 0%, 100%);
+  padding: 2.4rem;
+  border-radius: 0 1rem 1rem 0;
+}
+.product-card .content .name {
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+  color: hsl(228, 12%, 48%);
+}
+.product-card .content h1 {
+  font-family: "Fraunces", serif;
+  font-size: 2.4rem;
+  line-height: 2.4rem;
+}
+.product-card .content .description {
+  color: hsl(228, 12%, 48%);
+  font-size: 1rem;
+  line-height: 1.6rem;
+}
+.product-card .content .price {
+  display: flex;
+  gap: 1.6rem;
+  align-items: center;
+}
+.product-card .content .price .new-price {
+  color: hsl(158, 36%, 37%);
+  font-size: 2.2rem;
+  font-family: "Fraunces", serif;
+}
+.product-card .content .price .old-price {
+  color: hsl(228, 12%, 48%);
+  text-decoration: line-through;
+}
+.product-card .content .button {
+  background-color: hsl(158, 36%, 37%);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  justify-content: center;
+  transition: background-color 0.3s ease-out;
+}
+.product-card .content .button:hover {
+  background-color: hsl(158, 42%, 18%);
+  cursor: pointer;
+}
+.product-card .content .button a {
+  color: hsl(0, 0%, 100%);
+  font-weight: 500;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */

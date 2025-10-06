@@ -1,0 +1,116 @@
+$Green-500: hsl(158, 36%, 37%);
+$Green-700: hsl(158, 42%, 18%);
+$Black: hsl(212, 21%, 14%);
+$Grey: hsl(228, 12%, 48%);
+$Cream: hsl(30, 38%, 92%);
+$White: hsl(0, 0%, 100%);
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100vh;
+  font-size: 0.875rem;
+  font-family: "Montserrat", sans-serif;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-color: $Cream;
+}
+.product-card {
+  display: flex;
+  flex-wrap: wrap;
+  width: 40vw;
+  margin: 0 auto;
+  border-radius: 1rem;
+  overflow: hidden;
+  align-items: stretch;
+  .img-box {
+    width: 50%;
+    img {
+      border-radius: 1rem 0 0 1rem;
+      width: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  }
+  @media (max-width: 1440px) and (min-width: 768px) {
+    width: 80vw;
+  }
+  @media (max-width: 768px) {
+    width: 90vw;
+    margin: 2rem 0;
+    flex-direction: column;
+    .img-box {
+      width: 100%;
+    }
+    .img-box img {
+      border-radius: 1rem 1rem 0 0;
+    }
+    .content {
+      width: 100% !important;
+      border-radius: 0 0 1rem 1rem !important;
+    }
+  }
+
+  .content {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.8rem;
+    background-color: $White;
+    padding: 2.4rem;
+    border-radius: 0 1rem 1rem 0;
+    .name {
+      letter-spacing: 0.4rem;
+      text-transform: uppercase;
+      color: $Grey;
+    }
+    h1 {
+      font-family: "Fraunces", serif;
+      font-size: 2.4rem;
+      line-height: 2.4rem;
+    }
+    .description {
+      color: $Grey;
+      font-size: 1rem;
+      line-height: 1.6rem;
+    }
+    .price {
+      display: flex;
+      gap: 1.6rem;
+      align-items: center;
+      .new-price {
+        color: $Green-500;
+        font-size: 2.2rem;
+        font-family: "Fraunces", serif;
+      }
+      .old-price {
+        color: $Grey;
+        text-decoration: line-through;
+      }
+    }
+    .button {
+      background-color: $Green-500;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      justify-content: center;
+      transition: background-color 0.3s ease-out;
+      &:hover {
+        background-color: $Green-700;
+        cursor: pointer;
+      }
+      a {
+        color: $White;
+        font-weight: 500;
+        font-size: 1rem;
+        text-decoration: none;
+      }
+    }
+  }
+}
