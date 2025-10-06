@@ -13,10 +13,7 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 3. **Social Links Profile**
    - Challenge: [Frontend Mentor - Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
    - Visit Site: [Social Links Profile](https://ayfersahinn.github.io/frontend-mentor-projects/social-links-profile-main/)
-4. **Profile Card Component**
-   - Challenge: [Frontend Mentor - Profile Card Component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
-   - Visit Site: [Profile Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/profile-card-component/)
-5. **Recipe Page**
+4. **Recipe Page**
    - Challenge: [Frontend Mentor - Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
    - Visit Site: [Recipe Page](https://ayfersahinn.github.io/frontend-mentor-projects/recipe-page/)
 ## 🛠️ Tech Stack
