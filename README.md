@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various Frontend Mentor challenges. These projects help me practice and improve my HTML and CSS skills by building real-world layouts based on professional design files.
 
-## 📌 Projects
+## 📌 Newbie Projects
 
 1. **QR Code Component**
    - Challenge: [Frontend Mentor - QR Code Component](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/682e10aa9b5ac95dc56eea21/challenge/start)
@@ -16,6 +16,10 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 4. **Recipe Page**
    - Challenge: [Frontend Mentor - Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
    - Visit Site: [Recipe Page](https://ayfersahinn.github.io/frontend-mentor-projects/recipe-page-main/)
+5. **Four Card Feature**
+   - Challenge: [Frontend Mentor - Four Card Feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
+   - Visit Site: [Four Card Feature](https://ayfersahinn.github.io/frontend-mentor-projects/four-card-feature-section/)
+     
 ## 🛠️ Tech Stack
 
 - HTML5  
