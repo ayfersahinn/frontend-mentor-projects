@@ -51,7 +51,7 @@ main {
   align-items: center;
   grid-template-columns: 1fr;
 
-  @media (min-width: 769px) {
+  @media (min-width: 990px) {
     max-width: 1200px;
     gap: 2rem;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

@@ -42,7 +42,7 @@ main {
   align-items: center;
   grid-template-columns: 1fr;
 }
-@media (min-width: 769px) {
+@media (min-width: 990px) {
   main {
     max-width: 1200px;
     gap: 2rem;
