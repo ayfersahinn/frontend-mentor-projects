@@ -36,11 +36,18 @@ header .description {
 
 main {
   margin: 4rem auto;
-  max-width: 1200px;
+  max-width: 80vw;
   display: grid;
   gap: 2rem;
   align-items: center;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: 1fr;
+}
+@media (min-width: 769px) {
+  main {
+    max-width: 1200px;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
 }
 main .box {
   padding: 2rem;
