@@ -19,6 +19,12 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 5. **Four Card Feature**
    - Challenge: [Frontend Mentor - Four Card Feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
    - Visit Site: [Four Card Feature](https://ayfersahinn.github.io/frontend-mentor-projects/four-card-feature-section/)
+
+## 📌 Junior Projects
+
+1. **Testimonials Grid Section**
+   - Challenge: [Frontend Mentor - Testimonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+   - Visit Site: [Testimonials Grid Section](https://ayfersahinn.github.io/frontend-mentor-projects/testimonials-grid-section)
      
 ## 🛠️ Tech Stack
 
