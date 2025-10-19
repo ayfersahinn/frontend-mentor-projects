@@ -22,8 +22,8 @@ This project is a responsive 3-column preview card component built with HTML and
 
 ### Links
 
-- Project link: [Stats Preview Card](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/3-column-preview-card-component)
-- Visit Site: [Stats Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/3-column-preview-card-component)
+- Project link: [3 Column Preview Card Component](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/3-column-preview-card-component)
+- Visit Site: [3 Column Preview Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/3-column-preview-card-component)
 
 ## My process
 
