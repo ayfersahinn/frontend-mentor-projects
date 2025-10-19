@@ -22,6 +22,9 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 6. **Profile Card Component**
    - Challenge: [Frontend Mentor - Profile Card Component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
    - Visit Site: [Profile Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/profile-card-component)
+7. **Stats Preview Card**
+   - Challenge: [Frontend Mentor - Stats Preview Card](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+   - Visit Site: [Stats Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/stats-preview-card-component)
 ## 📌 Junior Projects
 
 1. **Testimonials Grid Section**
