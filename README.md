@@ -26,7 +26,7 @@ This repository contains my solutions to various Frontend Mentor challenges. The
    - Challenge: [Frontend Mentor - Stats Preview Card](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
    - Visit Site: [Stats Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/stats-preview-card-component)
 8. **3 Column Preview Card Component**
-   - Challenge: [Frontend Mentor - 3 Column Preview Card Component](https://www.frontendmentor.io/challenges/3-column-preview-card-component-pH92eAR2-)
+   - Challenge: [Frontend Mentor - 3 Column Preview Card Component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
    - Visit Site: [3 Column Preview Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/3-column-preview-card-component)
 ## 📌 Junior Projects
 
