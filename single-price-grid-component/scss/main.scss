@@ -1,0 +1,128 @@
+:root {
+  --Teal-500: hsl(179, 62%, 43%);
+  --Green-400: hsl(71, 73%, 54%);
+  --Teal-100: hsl(204, 43%, 93%);
+  --Gray-500: hsl(218, 22%, 67%);
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+  background-color: var(--Teal-100);
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: stretch;
+    justify-content: center;
+    margin: 2rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+
+    .card {
+      display: flex;
+      flex-direction: column;
+      gap: 1.2rem;
+      padding: 1.5rem;
+    }
+    .card-header {
+      background-color: #fff;
+      color: var(--Gray-500);
+      h1 {
+        color: var(--Teal-500);
+        font-size: 1.3rem;
+      }
+      h2 {
+        color: var(--Green-400);
+        font-size: 1rem;
+        line-height: 1.5rem;
+      }
+      p {
+        line-height: 1.75rem;
+        font-size: 0.875rem;
+      }
+    }
+    @media (min-width: 768px) {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: auto auto;
+      max-width: 650px;
+      .card {
+        padding: 2.5rem;
+      }
+      .card-header {
+        grid-column: 1/3;
+        h1 {
+          font-size: 1.5rem;
+        }
+        h2 {
+          font-size: 1.1rem;
+        }
+        p {
+          font-size: 1rem;
+        }
+      }
+    }
+    .card-subscription {
+      background-color: var(--Teal-500);
+      color: var(--Teal-100);
+      h3 {
+        font-size: 1.1rem;
+      }
+      .span-box {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        margin-bottom: 0.5rem;
+        .price {
+          font-size: 2rem;
+          font-weight: 700;
+        }
+        .month {
+          font-weight: lighter;
+        }
+      }
+      button {
+        padding: 1rem;
+        margin-top: 1rem;
+        border: none;
+        border-radius: 0.3rem;
+        background-color: var(--Green-400);
+        color: var(--Teal-100);
+        font-weight: 600;
+        font-size: 1rem;
+        box-shadow: 0px 8px 16px hsla(180, 1%, 32%, 0.3);
+      }
+    }
+    .card-footer {
+      background-color: hsla(179, 62%, 43%, 0.8);
+      color: var(--Teal-100);
+
+      h3 {
+        font-size: 1.1rem;
+      }
+      ul {
+        list-style-type: none;
+        font-weight: lighter;
+        font-size: 0.9rem;
+
+        li {
+          line-height: 1.3rem;
+        }
+      }
+    }
+  }
+}
