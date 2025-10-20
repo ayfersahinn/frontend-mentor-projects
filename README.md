@@ -28,6 +28,9 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 8. **3 Column Preview Card Component**
    - Challenge: [Frontend Mentor - 3 Column Preview Card Component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
    - Visit Site: [3 Column Preview Card Component](https://ayfersahinn.github.io/frontend-mentor-projects/3-column-preview-card-component)
+9. **Single Price Grid Component**
+    - Challenge: [Frontend Mentor - Single Price Grid Component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+    - Visit Site: [Single Price Grid Component](https://ayfersahinn.github.io/frontend-mentor-projects/single-price-grid-component)
 ## 📌 Junior Projects
 
 1. **Testimonials Grid Section**
