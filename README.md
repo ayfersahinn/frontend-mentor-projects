@@ -31,6 +31,10 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 9. **Single Price Grid Component**
     - Challenge: [Frontend Mentor - Single Price Grid Component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
     - Visit Site: [Single Price Grid Component](https://ayfersahinn.github.io/frontend-mentor-projects/single-price-grid-component)
+10. **Order Summary Card**
+    - Challenge: [Frontend Mentor - Order Summary Card](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+    - Visit Site: [Order Summary Card](https://ayfersahinn.github.io/frontend-mentor-projects/order-summary-component)
+      
 ## 📌 Junior Projects
 
 1. **Testimonials Grid Section**
