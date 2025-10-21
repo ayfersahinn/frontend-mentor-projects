@@ -1,0 +1,203 @@
+:root {
+  --Light-red: hsl(0, 100%, 67%);
+  --Orangey-yellow: hsl(39, 100%, 56%);
+  --Green-teal: hsl(166, 100%, 37%);
+  --Cobalt-blue: hsl(234, 85%, 45%);
+  --Light-slate-blue: hsl(252, 100%, 67%);
+  --Light-royal-blue: hsl(241, 81%, 54%);
+  --Violet-blue: hsla(256, 72%, 46%, 1);
+  --Persian-blue: hsla(241, 72%, 46%, 0);
+  --White: hsl(0, 0%, 100%);
+  --Pale-blue: hsl(221, 100%, 96%);
+  --Light-lavender: hsl(241, 100%, 89%);
+  --Dark-gray-blue: hsl(224, 30%, 27%);
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: var(--Pale-blue);
+  font-family: "Hanken Grotesk", sans-serif;
+}
+body .card {
+  background-color: var(--White);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 1.5rem;
+}
+body .card .your-result {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 2rem 4rem;
+  border-radius: 0 0 1.5rem 1.5rem;
+  color: var(--White);
+  background: linear-gradient(to bottom, var(--Light-slate-blue), var(--Light-royal-blue));
+}
+body .card .your-result span {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--Light-lavender);
+}
+body .card .your-result .score {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, var(--Violet-blue), var(--Persian-blue));
+  border-radius: 50%;
+  width: 8rem;
+  height: 8rem;
+}
+body .card .your-result .score .rate {
+  font-weight: 800;
+  font-size: 3rem;
+  color: var(--White);
+}
+body .card .your-result .score .total {
+  font-size: 0.875rem;
+  color: var(--Light-lavender);
+}
+body .card .your-result h1 {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+body .card .your-result p {
+  color: var(--Light-lavender);
+  font-weight: 500;
+  font-size: 0.935rem;
+}
+body .card .summary {
+  text-align: start;
+  padding: 1.5rem;
+}
+body .card .summary h2 {
+  font-size: 1rem;
+  color: var(--Dark-gray-blue);
+  margin-bottom: 1.5rem;
+}
+body .card .summary .icon-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+body .card .summary .icon-container .icon-box {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  border-radius: 0.75rem;
+}
+body .card .summary .icon-container .icon-box .numbers {
+  margin-left: auto;
+  color: hsl(240, 1%, 61%);
+}
+body .card .summary .icon-container .icon-box .numbers span {
+  color: var(--Dark-gray-blue);
+}
+body .card .summary .icon-container .icon-box.reaction {
+  background-color: hsla(0, 100%, 67%, 0.05);
+  color: var(--Light-red);
+}
+body .card .summary .icon-container .icon-box.memory {
+  background-color: hsla(39, 100%, 56%, 0.05);
+  color: var(--Orangey-yellow);
+}
+body .card .summary .icon-container .icon-box.verbal {
+  background-color: hsla(166, 100%, 37%, 0.05);
+  color: var(--Green-teal);
+}
+body .card .summary .icon-container .icon-box.visual {
+  background-color: hsla(234, 85%, 45%, 0.05);
+  color: var(--Cobalt-blue);
+}
+body .card .summary button {
+  background-color: var(--Dark-gray-blue);
+  color: var(--White);
+  padding: 1rem;
+  margin-top: 1.5rem;
+  border: none;
+  border-radius: 100px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+body .card .summary button::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, var(--Light-slate-blue), var(--Light-royal-blue));
+  opacity: 0;
+  transition: opacity 0.2s ease-in;
+}
+body .card .summary button:hover::before {
+  opacity: 1;
+}
+body .card .summary button span {
+  position: relative;
+  z-index: 1;
+}
+@media (min-width: 650px) {
+  body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+  }
+  body .card {
+    max-width: 630px;
+    flex-direction: row;
+  }
+  body .card .your-result {
+    width: 50%;
+    border-radius: 1.5rem;
+    padding: 2rem 3rem;
+    gap: 2rem;
+  }
+  body .card .your-result span {
+    font-size: 1.3rem;
+  }
+  body .card .your-result .score {
+    width: 11rem;
+    height: 11rem;
+  }
+  body .card .your-result .score .rate {
+    font-size: 3.6rem;
+  }
+  body .card .your-result h1 {
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+  }
+  body .card .summary {
+    width: 50%;
+    padding: 2rem;
+  }
+  body .card .summary h2 {
+    font-size: 1.2rem;
+  }
+  body .card .summary .icon-box {
+    font-size: 1rem;
+  }
+  body .card .summary button {
+    margin-top: 2rem;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */
