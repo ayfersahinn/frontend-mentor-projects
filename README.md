@@ -34,6 +34,9 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 10. **Order Summary Card**
     - Challenge: [Frontend Mentor - Order Summary Card](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
     - Visit Site: [Order Summary Card](https://ayfersahinn.github.io/frontend-mentor-projects/order-summary-component)
+11. **Results Summary Component**
+    - Challenge: [Frontend Mentor - Results Summary Component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+    - Visit Site: [Results Summary Component](https://ayfersahinn.github.io/frontend-mentor-projects/results-summary-component)
       
 ## 📌 Junior Projects
 
