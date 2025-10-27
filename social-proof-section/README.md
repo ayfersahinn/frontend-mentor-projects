@@ -22,8 +22,8 @@ This project focuses on building a responsive layout using HTML and CSS (SCSS). 
 
 ### Links
 
-- Project link: [Single Price Grid Component](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/social-proof-section)
-- Visit Site: [Single Price Grid Component](https://ayfersahinn.github.io/frontend-mentor-projects/social-proof-section)
+- Project link: [Social Proof Section](https://github.com/ayfersahinn/frontend-mentor-projects/tree/main/social-proof-section)
+- Visit Site: [Social Proof Section](https://ayfersahinn.github.io/frontend-mentor-projects/social-proof-section)
 
 ## My process
 
