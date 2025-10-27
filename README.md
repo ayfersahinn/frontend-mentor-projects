@@ -37,6 +37,15 @@ This repository contains my solutions to various Frontend Mentor challenges. The
 11. **Results Summary Component**
     - Challenge: [Frontend Mentor - Results Summary Component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
     - Visit Site: [Results Summary Component](https://ayfersahinn.github.io/frontend-mentor-projects/results-summary-component)
+12. **NFT Preview Card**
+    - Challenge: [Frontend Mentor - NFT Preview Card](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+    - Visit Site: [NFT Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/nft-preview-card-component-main/)
+13. **Product Preview Card**
+    - Challenge: [Frontend Mentor - Product Preview Card](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+    - Visit Site: [Product Preview Card](https://ayfersahinn.github.io/frontend-mentor-projects/product-preview-card/)
+14. **Social Proof Section**
+    - Challenge: [Frontend Mentor - Social Proof Section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
+    - Visit Site: [Social Proof Section](https://ayfersahinn.github.io/frontend-mentor-projects/social-proof-section/)
       
 ## 📌 Junior Projects
 
